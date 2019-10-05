@@ -8,36 +8,11 @@
 
 
 {"name":{"name" : "Charzard"}}
-
-
-{"name": {"name" : "completed"}   
-}
-
-
+{"name": {"name" : "completed"}}
 {"name": {"name" : "assignment"} }
-
-
 {"name": {"name" : 99}}
-
-
-{"name":{"name" : "television"}
-
-}
-
-
-{"name":{"name" : "spotify"}
-
-}
-
-
-
-{"name":{"name" : 
-
-"Apple"}
-
-}
-
-
+{"name":{"name" : "television"}}
+{"name":{"name" : "spotify"}}
+{"name":{"name" : "Apple"}}
 {"name":{"name" : " "}}
-
 123
